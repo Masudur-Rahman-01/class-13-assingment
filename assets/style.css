@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&family=Orbitron:wght@700&family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+.clock{
+    background-image: url(./img/LED-Clock-4-digit-EA5-10-2-4-inch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 250px;
+    font-size: 4em;
+    color: rgb(235, 233, 222);
+    display: flex;
+    place-items: center;
+    justify-content: center;   
+    border: 5px solid rgb(17, 177, 51);
+    transition: 0.5s;
+    font-family: 'Orbitron', sans-serif;
+}
